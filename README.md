@@ -4,8 +4,8 @@ A few folders containing a bunch of assets for a bunch of projects that i made (
 
 # What you'll find
 
-| Folder | Assets Inside | Link |
+| Folder | Assets Inside | Branch |
 | --- | --- | --- |
-| super-mario-bros | Super Mario Bros 1 SVGs sprites | [sprites](super-mario-bros/) |
-| super-auto-pets | Super Auto Pets PNGs for pets and foods | [sprites](super-auto-pets/) |
+| super-mario-bros | Super Mario Bros 1 SVGs sprites | smb1 |
+| super-auto-pets | Super Auto Pets PNGs for pets and foods | sap |
 
