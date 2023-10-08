@@ -7,4 +7,5 @@ A few folders containing a bunch of assets for a bunch of projects that i made (
 | Folder | Assets Inside | Link |
 | --- | --- | --- |
 | super-mario-bros | Super Mario Bros 1 SVGs sprites | [sprites](super-mario-bros/) |
+| super-auto-pets | Super Auto Pets PNGs for pets and foods | [sprites](super-auto-pets/) |
 
